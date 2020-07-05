@@ -22,7 +22,7 @@ CSS وتنسيقات لغة HTML قم باستخدام وسوم لغة
 
 2. :لا تنسى استخدام وسوم
 
-<ul>
-<li>
-<input>
-<button>
+   ul
+   li
+   input
+   button
