@@ -1,3 +1,4 @@
+<div dir="rtl">
 # web-js-easy
 
 # المستوى السهل
@@ -26,3 +27,4 @@ CSS وتنسيقات لغة HTML قم باستخدام وسوم لغة
    li
    input
    button
+</div>
