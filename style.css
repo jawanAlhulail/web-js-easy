@@ -1,21 +1,68 @@
 #task{
-    text-align: center;
+    
+    background-color: white;
+   
+   
+      padding-left: 70px;
+      border: none;
+      border-radius: 0;
+      width: 75%;
+      padding: 10px;
+      float: left;
+      font-size: 16px;
+    
+    
+}
+
+
+  
+
+
+#addbtn{
+  font-size:20px;
+  transition: all 1s case-in-out;
+  border-radius: 60px;
+}
+
+#addbtn:hover{
+  background-color: darkslategray;
+  transform: scale(1.05);
+  border-radius: 60px;
 }
 
 #tasks-background{
 
    text-align: center;
-   margin-right: 300px;
-   margin-left: 300px;
+   margin-right: 100px;
+   margin-left: 120px;
    border-radius: 10px;
-  
+  font-size: 20px;
+}
+#task-list{
+  margin-top: 100px;
+}
+.h1{
+  size: 100px;
+}
+
+.li1{
+  background-color: rgb(218, 226, 218);
+  padding: 10px;
+}
+
+.li2{
+  background-color: rgb(176, 180, 176);
+  padding: 10px;
+}
+.task-list:hover{
+  background-color: rgb(56, 50, 50);
 }
 
     
 
 body {
     font-family: "Lato", sans-serif;
-    background-color: rgb(197, 191, 191);
+    background-color: rgb(143, 72, 63);
   }
   
   .sidebar {

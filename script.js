@@ -14,10 +14,5 @@ let tasks=[];
   tasks.push(newtask);
   console.log(tasks)
   document.getElementById("tasks-list").innerHTML += "<li>" + newtask + "</li>";
+  document.getElementById("tasks-list").style.backgroundColor
 }
-
-
-
-
-
-
